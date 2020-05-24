@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJ+Bxo2qiWh/p3Qx3k6jcFhyYARUiUgTCf8aTdzcvPp2jG7zmI4lH1aDjSkXBHzd6AzhA8wIiuQY+CofCILosg==",
+  "success": true,
+  "projectFilePath": "/Users/mosstazi/VisCode/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/mosstazi/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

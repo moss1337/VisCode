@@ -1,0 +1,9 @@
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.deps.json
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.dll
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.pdb
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.csprojAssemblyReference.cache
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.AssemblyInfo.cs
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.dll
+/Users/mosstazi/VisCode/Chapter07/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.pdb

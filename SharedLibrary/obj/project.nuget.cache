@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZanbM0UT3WwED8ytd5jCq/LPIBvZoAFjtuffJ3plUEK5j/Np7E3DE7XP+hsn0//FdzuOVUJs1dycumKC32dvg==",
+  "success": true,
+  "projectFilePath": "/Users/mosstazi/VisCode/Chapter07/SharedLibrary/SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

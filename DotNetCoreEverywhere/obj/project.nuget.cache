@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejy0qaBaEndBeYwumBVeRsLU7kMPzWUlSUDJEgKQY/I/KzdNl/zX7ai5Uow/TgHeRW40YtBpRafl4YO44+XfSQ==",
+  "success": true,
+  "projectFilePath": "/Users/mosstazi/VisCode/Chapter07/DotNetCoreEverywhere/DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.app.runtime.win-x64/3.1.4/microsoft.netcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.4/microsoft.netcore.app.runtime.osx-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/3.1.4/microsoft.netcore.app.runtime.linux-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/3.1.4/microsoft.aspnetcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.4/microsoft.aspnetcore.app.runtime.osx-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/3.1.4/microsoft.aspnetcore.app.runtime.linux-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.app.host.win-x64/3.1.4/microsoft.netcore.app.host.win-x64.3.1.4.nupkg.sha512",
+    "/Users/mosstazi/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.4/microsoft.netcore.app.host.linux-x64.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
